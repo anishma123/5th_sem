@@ -1,6 +1,4 @@
 //Implementation of. monte Carlo Simulation without Grapucs
-
-
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
