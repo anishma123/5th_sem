@@ -21,7 +21,8 @@ int main() {
      x = (double)rand() / RAND_MAX;
     y = (double)rand() / RAND_MAX;
 // here x and y are randomly generated
-     z = x * x + y * y;
+
+    z = x * x + y * y;
 
      if( z <= 1 ) count++;  // to check if raindrop is inside the circle, if it is inside then increase the count
  }
