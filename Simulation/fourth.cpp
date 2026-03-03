@@ -27,7 +27,6 @@ int main() {
         }
     }
 
-    // Estimate value of pi
     double pi_estimate = 4.0 * circlepoints / iteration;
 
     std::cout << "Estimated value of pi: " << pi_estimate << std::endl;
