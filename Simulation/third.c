@@ -18,7 +18,7 @@ scanf("%d",&num);
 	float probabilities_4d[5]={0.504, 0.001, 0.036, 0.432, 0.027};
 	float expected_frequency_4d[5];
 	
-	int three_diff; // for 3 digit poker
+	int three_diff; 
 	float probabilities_3d[3]={0.72, 0.01, 0.27};
 	float expected_frequency_3d[3];
 
