@@ -4,7 +4,7 @@
 
 // Function to generate random x and y coordinates between -1 and 1
 void generate_random_point(double &x, double &y) {
-    x = (double) rand() / RAND_MAX * 2 - 1;
+    x = (double) rand() / RAND_MAX * 2 - 1;  
     y = (double) rand() / RAND_MAX * 2 - 1;
 }
 
