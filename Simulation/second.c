@@ -10,7 +10,7 @@ int main() {
  srand( SEED ); // SEED is used for different random number generation every time and rand is the random number generation function
  int i, count, n; // count is the number of drops in circle and n is the time interval till which the drop of water falls
  double x,y,z,pi; 
- 
+
  printf(" n = ");
  scanf("%d", &n);
 
