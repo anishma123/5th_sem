@@ -20,7 +20,6 @@ int main() {
 
      x = (double)rand() / RAND_MAX;
     y = (double)rand() / RAND_MAX;
-// here x and y are randomly generated
 
     z = x * x + y * y;
 
